@@ -31,7 +31,7 @@ This repo focuses on **retrieval + benchmarking**, not fancy UI demos.
 Install Python deps:
 ```bash
 pip install -r requirements.txt
-
+```
 
 # News RAG (PGVector + Hybrid Retrieval + Reranking)
 
@@ -232,5 +232,5 @@ Or leave it unlicensed if you enjoy ambiguity and confusion.
 
 Built as part of a personal “News RAG” prototype focusing on retrieval quality and speed tradeoffs.
 
-```
+
 
