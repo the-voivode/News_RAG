@@ -32,9 +32,7 @@ Install Python deps:
 ```bash
 pip install -r requirements.txt
 
-Yep, my bad. The README drifted into “hand-wavy lore” territory. Here’s a **complete** README in **Markdown** you can paste as-is.
 
-````markdown
 # News RAG (PGVector + Hybrid Retrieval + Reranking)
 
 A compact RAG prototype for a news-style corpus:
