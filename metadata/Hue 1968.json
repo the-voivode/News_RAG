@@ -1,0 +1,51 @@
+{
+  "title": "Hué 1968",
+  "author": "Mark Bowden",
+  "publication_year": 2017,
+  "source/publisher": "Atlantic Monthly Press, New York",
+  "time_span_start": 1967,
+  "time_span_end": 1968,
+  "main_entities": {
+    "countries": [
+      "Vietnam",
+      "United States",
+      "France",
+      "China",
+      "Soviet Union",
+      "Laos",
+      "Cambodia",
+      "South Korea"
+    ],
+    "orgs": [
+      "North Vietnamese Army (NVA)",
+      "Viet Cong (VC)",
+      "National Liberation Front (NLF)",
+      "Army of the Republic of Vietnam (ARVN)",
+      "Military Assistance Command Vietnam (MACV)",
+      "Central Intelligence Agency (CIA)",
+      "US Marine Corps",
+      "US Army",
+      "Vietnam Workers Party"
+    ],
+    "key_people": [
+      "Mark Bowden",
+      "William Westmoreland",
+      "Lyndon Baines Johnson",
+      "Ho Chi Minh",
+      "Vo Nguyen Giap",
+      "Robert McNamara",
+      "Ngo Quang Truong",
+      "Frank Doezema",
+      "Jim Coolican",
+      "Che Thi Mung",
+      "Nguyen Van Quang",
+      "Nguyen Dac Xuan",
+      "Gene Roberts",
+      "Walter Cronkite",
+      "Ernie Cheatham",
+      "Jim Bullington",
+      "Andy Westin",
+      "Richard Nixon"
+    ]
+  }
+}

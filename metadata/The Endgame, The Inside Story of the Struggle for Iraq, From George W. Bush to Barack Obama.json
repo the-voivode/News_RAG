@@ -1,0 +1,46 @@
+{
+  "title": "The Endgame: The Inside Story of the Struggle for Iraq, From George W. Bush to Barack Obama",
+  "author": [
+    "Michael R. Gordon",
+    "General Bernard E. Trainor"
+  ],
+  "publication_year": 2012,
+  "source_publisher": "Vintage Books, A Division of Random House, Inc.",
+  "time_span_start_year": 2003,
+  "time_span_end_year": 2011,
+  "main_entities": {
+    "countries": [
+      "Iraq",
+      "United States",
+      "Iran",
+      "Syria",
+      "Saudi Arabia",
+      "Turkey",
+      "Kuwait",
+      "Afghanistan"
+    ],
+    "organizations": [
+      "Al-Qaeda in Iraq (AQI)",
+      "Mahdi Army (JAM)",
+      "Quds Force",
+      "CIA",
+      "Pentagon",
+      "Coalition Provisional Authority (CPA)",
+      "Joint Special Operations Command (JSOC)",
+      "United Nations (UN)"
+    ],
+    "key_people": [
+      "George W. Bush",
+      "Barack Obama",
+      "Nuri al-Maliki",
+      "General David Petraeus",
+      "Donald Rumsfeld",
+      "Condoleezza Rice",
+      "Saddam Hussein",
+      "Ayatollah Ali al-Sistani",
+      "Muqtada al-Sadr",
+      "Ayad Allawi",
+      "Qasim Suleimani"
+    ]
+  }
+}

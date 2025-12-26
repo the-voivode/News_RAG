@@ -1,0 +1,59 @@
+Collecting spacy==3.7.2
+  Downloading spacy-3.7.2-cp311-cp311-win_amd64.whl.metadata (26 kB)
+Requirement already satisfied: pydantic in x:\ml projects\news rag\src\venv\lib\site-packages (2.12.4)
+Requirement already satisfied: spacy-legacy<3.1.0,>=3.0.11 in x:\ml projects\news rag\src\venv\lib\site-packages (from spacy==3.7.2) (3.0.12)
+Requirement already satisfied: spacy-loggers<2.0.0,>=1.0.0 in x:\ml projects\news rag\src\venv\lib\site-packages (from spacy==3.7.2) (1.0.5)
+Requirement already satisfied: murmurhash<1.1.0,>=0.28.0 in x:\ml projects\news rag\src\venv\lib\site-packages (from spacy==3.7.2) (1.0.13)
+Requirement already satisfied: cymem<2.1.0,>=2.0.2 in x:\ml projects\news rag\src\venv\lib\site-packages (from spacy==3.7.2) (2.0.11)
+Requirement already satisfied: preshed<3.1.0,>=3.0.2 in x:\ml projects\news rag\src\venv\lib\site-packages (from spacy==3.7.2) (3.0.10)
+Requirement already satisfied: thinc<8.3.0,>=8.1.8 in x:\ml projects\news rag\src\venv\lib\site-packages (from spacy==3.7.2) (8.1.12)
+Requirement already satisfied: wasabi<1.2.0,>=0.9.1 in x:\ml projects\news rag\src\venv\lib\site-packages (from spacy==3.7.2) (1.1.3)
+Requirement already satisfied: srsly<3.0.0,>=2.4.3 in x:\ml projects\news rag\src\venv\lib\site-packages (from spacy==3.7.2) (2.5.1)
+Requirement already satisfied: catalogue<2.1.0,>=2.0.6 in x:\ml projects\news rag\src\venv\lib\site-packages (from spacy==3.7.2) (2.0.10)
+Collecting weasel<0.4.0,>=0.1.0 (from spacy==3.7.2)
+  Downloading weasel-0.3.4-py3-none-any.whl.metadata (4.7 kB)
+Requirement already satisfied: typer<0.10.0,>=0.3.0 in x:\ml projects\news rag\src\venv\lib\site-packages (from spacy==3.7.2) (0.9.4)
+Requirement already satisfied: smart-open<7.0.0,>=5.2.1 in x:\ml projects\news rag\src\venv\lib\site-packages (from spacy==3.7.2) (6.4.0)
+Requirement already satisfied: tqdm<5.0.0,>=4.38.0 in x:\ml projects\news rag\src\venv\lib\site-packages (from spacy==3.7.2) (4.67.1)
+Requirement already satisfied: requests<3.0.0,>=2.13.0 in x:\ml projects\news rag\src\venv\lib\site-packages (from spacy==3.7.2) (2.32.5)
+Requirement already satisfied: jinja2 in x:\ml projects\news rag\src\venv\lib\site-packages (from spacy==3.7.2) (3.1.6)
+Requirement already satisfied: setuptools in x:\ml projects\news rag\src\venv\lib\site-packages (from spacy==3.7.2) (65.5.0)
+Requirement already satisfied: packaging>=20.0 in x:\ml projects\news rag\src\venv\lib\site-packages (from spacy==3.7.2) (24.2)
+Requirement already satisfied: langcodes<4.0.0,>=3.2.0 in x:\ml projects\news rag\src\venv\lib\site-packages (from spacy==3.7.2) (3.5.0)
+Requirement already satisfied: numpy>=1.19.0 in x:\ml projects\news rag\src\venv\lib\site-packages (from spacy==3.7.2) (1.26.4)
+Requirement already satisfied: annotated-types>=0.6.0 in x:\ml projects\news rag\src\venv\lib\site-packages (from pydantic) (0.7.0)
+Requirement already satisfied: pydantic-core==2.41.5 in x:\ml projects\news rag\src\venv\lib\site-packages (from pydantic) (2.41.5)
+Requirement already satisfied: typing-extensions>=4.14.1 in x:\ml projects\news rag\src\venv\lib\site-packages (from pydantic) (4.15.0)
+Requirement already satisfied: typing-inspection>=0.4.2 in x:\ml projects\news rag\src\venv\lib\site-packages (from pydantic) (0.4.2)
+Requirement already satisfied: language-data>=1.2 in x:\ml projects\news rag\src\venv\lib\site-packages (from langcodes<4.0.0,>=3.2.0->spacy==3.7.2) (1.3.0)
+Requirement already satisfied: charset_normalizer<4,>=2 in x:\ml projects\news rag\src\venv\lib\site-packages (from requests<3.0.0,>=2.13.0->spacy==3.7.2) (3.4.4)
+Requirement already satisfied: idna<4,>=2.5 in x:\ml projects\news rag\src\venv\lib\site-packages (from requests<3.0.0,>=2.13.0->spacy==3.7.2) (3.11)
+Requirement already satisfied: urllib3<3,>=1.21.1 in x:\ml projects\news rag\src\venv\lib\site-packages (from requests<3.0.0,>=2.13.0->spacy==3.7.2) (2.5.0)
+Requirement already satisfied: certifi>=2017.4.17 in x:\ml projects\news rag\src\venv\lib\site-packages (from requests<3.0.0,>=2.13.0->spacy==3.7.2) (2025.10.5)
+Requirement already satisfied: blis<0.8.0,>=0.7.8 in x:\ml projects\news rag\src\venv\lib\site-packages (from thinc<8.3.0,>=8.1.8->spacy==3.7.2) (0.7.11)
+Requirement already satisfied: confection<1.0.0,>=0.0.1 in x:\ml projects\news rag\src\venv\lib\site-packages (from thinc<8.3.0,>=8.1.8->spacy==3.7.2) (0.1.5)
+Requirement already satisfied: colorama in x:\ml projects\news rag\src\venv\lib\site-packages (from tqdm<5.0.0,>=4.38.0->spacy==3.7.2) (0.4.6)
+Requirement already satisfied: click<9.0.0,>=7.1.1 in x:\ml projects\news rag\src\venv\lib\site-packages (from typer<0.10.0,>=0.3.0->spacy==3.7.2) (8.3.0)
+Collecting cloudpathlib<0.17.0,>=0.7.0 (from weasel<0.4.0,>=0.1.0->spacy==3.7.2)
+  Downloading cloudpathlib-0.16.0-py3-none-any.whl.metadata (14 kB)
+Requirement already satisfied: marisa-trie>=1.1.0 in x:\ml projects\news rag\src\venv\lib\site-packages (from language-data>=1.2->langcodes<4.0.0,>=3.2.0->spacy==3.7.2) (1.3.1)
+Requirement already satisfied: MarkupSafe>=2.0 in x:\ml projects\news rag\src\venv\lib\site-packages (from jinja2->spacy==3.7.2) (3.0.3)
+Downloading spacy-3.7.2-cp311-cp311-win_amd64.whl (12.1 MB)
+   ---------------------------------------- 12.1/12.1 MB 2.8 MB/s  0:00:04
+Downloading weasel-0.3.4-py3-none-any.whl (50 kB)
+Downloading cloudpathlib-0.16.0-py3-none-any.whl (45 kB)
+Installing collected packages: cloudpathlib, weasel, spacy
+  Attempting uninstall: cloudpathlib
+    Found existing installation: cloudpathlib 0.23.0
+    Uninstalling cloudpathlib-0.23.0:
+      Successfully uninstalled cloudpathlib-0.23.0
+  Attempting uninstall: weasel
+    Found existing installation: weasel 0.4.2
+    Uninstalling weasel-0.4.2:
+      Successfully uninstalled weasel-0.4.2
+  Attempting uninstall: spacy
+    Found existing installation: spacy 3.6.1
+    Uninstalling spacy-3.6.1:
+      Successfully uninstalled spacy-3.6.1
+
+Successfully installed cloudpathlib-0.16.0 spacy-3.7.2 weasel-0.3.4

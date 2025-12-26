@@ -1,0 +1,55 @@
+{
+  "title": "Crusade: The Untold Story of the Persian Gulf War",
+  "author": "Rick Atkinson",
+  "publication_year": 1993,
+  "source_publisher": "Houghton Mifflin Company",
+  "time_span_start": 1990,
+  "time_span_end": 1991,
+  "main_entities": {
+    "countries": [
+      "United States",
+      "Iraq",
+      "Kuwait",
+      "Saudi Arabia",
+      "Israel",
+      "Iran",
+      "Syria",
+      "Turkey",
+      "Jordan",
+      "United Kingdom",
+      "France"
+    ],
+    "organizations": [
+      "United States Central Command (CENTCOM)",
+      "United Nations (UN)",
+      "Department of Defense (DoD)",
+      "Joint Chiefs of Staff (JCS)",
+      "Pentagon",
+      "United States Army",
+      "United States Air Force",
+      "United States Navy",
+      "United States Marine Corps",
+      "Central Intelligence Agency (CIA)",
+      "Houghton Mifflin Company"
+    ],
+    "key_people": [
+      "H. Norman Schwarzkopf",
+      "General Colin L. Powell",
+      "George Bush",
+      "Richard B. Cheney",
+      "Lieutenant General Frederick M. Franks",
+      "Major General Tom Rhame",
+      "Major General Barry McCaffrey",
+      "Lieutenant General John Yeosock",
+      "Brigadier General Steve Arnold",
+      "Lieutenant General Gary Luck",
+      "Lieutenant General Wayne Downing",
+      "General Walt Boomer",
+      "Colonel David W. Eberly",
+      "Colonel John Warden",
+      "Lieutenant General Charles Horner",
+      "Brigadier General Buster Glosson",
+      "Lieutenant Colonel David A. Deptula"
+    ]
+  }
+}

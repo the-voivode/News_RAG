@@ -1,0 +1,61 @@
+{
+  "title": "Palestine and the Arab-Israeli Conflict",
+  "author": "Charles D. Smith",
+  "publication_year": 2021,
+  "source / publisher": "Bedford/St. Martin's (Macmillan Learning)",
+  "time_span_start": 1516,
+  "time_span_end": 2020,
+  "main_entities": {
+    "countries": [
+      "Israel",
+      "Palestine",
+      "Egypt",
+      "Syria",
+      "Jordan",
+      "Iraq",
+      "Great Britain",
+      "United States",
+      "France",
+      "Russia",
+      "Turkey",
+      "Germany",
+      "Saudi Arabia",
+      "Lebanon",
+      "Iran"
+    ],
+    "orgs": [
+      "Palestine Liberation Organization (PLO)",
+      "World Zionist Organization (WZO)",
+      "Hamas",
+      "Likud Party",
+      "Labor Party (Israel)",
+      "United Nations (UN)",
+      "League of Nations",
+      "Fatah",
+      "Irgun Zvai Leumi",
+      "Hagana",
+      "Arab League"
+    ],
+    "key_people": [
+      "Charles D. Smith",
+      "Theodor Herzl",
+      "Chaim Weizmann",
+      "Yitzhak Rabin",
+      "Yasir Arafat",
+      "David Ben-Gurion",
+      "Menachem Begin",
+      "Gamal Abd al-Nasser",
+      "Anwar al-Sadat",
+      "Henry McMahon",
+      "Sir Mark Sykes",
+      "Arthur Balfour",
+      "Ariel Sharon",
+      "Benjamin Netanyahu",
+      "Jimmy Carter",
+      "Henry Kissinger",
+      "George W. Bush",
+      "Barack Obama",
+      "Donald Trump"
+    ]
+  }
+}

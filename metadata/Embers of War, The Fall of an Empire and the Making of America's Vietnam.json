@@ -1,0 +1,52 @@
+{
+  "title": "Embers of War: The Fall of an Empire and the Making of America's Vietnam",
+  "author": "Fredrik Logevall",
+  "publication_year": 2012,
+  "source": "Random House",
+  "time_span_start": 1940,
+  "time_span_end": 1959,
+  "main_entities": {
+    "countries": [
+      "Vietnam",
+      "France",
+      "United States",
+      "China",
+      "Soviet Union",
+      "Laos",
+      "Cambodia",
+      "Great Britain",
+      "Japan"
+    ],
+    "orgs": [
+      "Viet Minh",
+      "Indochinese Communist Party (ICP)",
+      "French Communist Party (PCF)",
+      "National Liberation Front (NLF)",
+      "OS (Office of Strategic Services)",
+      "Vietnamese Nationalist Party (VNQDD)",
+      "SEATO (Southeast Asia Treaty Organization)",
+      "NATO (North Atlantic Treaty Organization)"
+    ],
+    "key_people": [
+      "Ho Chi Minh (Nguyen Ai Quoc)",
+      "Charles de Gaulle",
+      "Franklin Delano Roosevelt",
+      "Winston Churchill",
+      "Ngo Dinh Diem",
+      "Vo Nguyen Giap",
+      "Jean de Lattre de Tassigny",
+      "Dwight D. Eisenhower",
+      "John Foster Dulles",
+      "Harry S. Truman",
+      "Pierre Mendès France",
+      "Georges Bidault",
+      "John F. Kennedy",
+      "Dean Acheson",
+      "Mao Zedong",
+      "Zhou Enlai",
+      "Admiral Jean Decoux",
+      "Paul Mus",
+      "Admiral Arthur W. Radford"
+    ]
+  }
+}

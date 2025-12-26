@@ -1,0 +1,59 @@
+{
+  "title": "The Israel-Palestine Conflict: Contested Histories",
+  "author": "Neil Caplan",
+  "publication_year": 2020,
+  "source": "WILEY Blackwell",
+  "time_span_start": 1882,
+  "time_span_end": 2018,
+  "main_entities": {
+    "countries": [
+      "Israel",
+      "Palestine",
+      "Egypt",
+      "Jordan",
+      "Syria",
+      "Lebanon",
+      "Iraq",
+      "Great Britain (UK)",
+      "France",
+      "United States (US)",
+      "Soviet Union (USSR)",
+      "Germany",
+      "Saudi Arabia"
+    ],
+    "orgs": [
+      "World Zionist Organization",
+      "League of Nations",
+      "United Nations (UN)",
+      "Palestine Liberation Organization (PLO)",
+      "Israel Defense Forces (IDF)",
+      "Palestine National Authority (PNA)",
+      "Arab League",
+      "Haganah",
+      "Irgun Zvai Leumi (ETZEL)",
+      "LEHI (Stern Gang)",
+      "United Nations Relief and Works Agency (UNRWA)",
+      "Hamas",
+      "Popular Front for the Liberation of Palestine (PFLP)",
+      "Democratic Front for the Liberation of Palestine (DFLP)"
+    ],
+    "key_people": [
+      "Neil Caplan",
+      "Chaim Weizmann",
+      "Theodor Herzl",
+      "David Ben-Gurion",
+      "Vladimir Jabotinsky",
+      "Hajj Amin al-Husayni (Mufti of Jerusalem)",
+      "King Abdullah Ibn Husayn (of Jordan)",
+      "Gamal Abd al-Nasir",
+      "Anwar al-Sadat",
+      "Menachem Begin",
+      "Yasir Arafat",
+      "Yitzhak Rabin",
+      "Ariel Sharon",
+      "Mahmoud Abbas (Abu Mazen)",
+      "Henry Kissinger",
+      "Jimmy Carter"
+    ]
+  }
+}

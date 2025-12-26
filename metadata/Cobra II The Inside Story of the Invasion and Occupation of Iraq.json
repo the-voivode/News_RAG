@@ -1,0 +1,61 @@
+{
+  "title": "Cobra II: The Inside Story of the Invasion and Occupation of Iraq",
+  "author": "Michael R. Gordon and General Bernard E. Trainor",
+  "publication_year": 2006,
+  "source": "Pantheon Books, New York",
+  "time_span_start": 2001,
+  "time_span_end": 2003,
+  "main_entities": {
+    "countries": [
+      "Iraq",
+      "United States",
+      "Kuwait",
+      "Afghanistan",
+      "Turkey",
+      "Saudi Arabia",
+      "Iran",
+      "Syria",
+      "Jordan",
+      "United Kingdom",
+      "Germany",
+      "France",
+      "North Korea"
+    ],
+    "orgs": [
+      "CENTCOM (Central Command)",
+      "CIA (Central Intelligence Agency)",
+      "Joint Chiefs of Staff (JCS)",
+      "Republican Guard",
+      "Saddam Fedayeen",
+      "Al Qaeda",
+      "NATO (North Atlantic Treaty Organization)",
+      "United Nations (UN)",
+      "Defense Department (DOD)",
+      "Coalition Provisional Authority (CPA)"
+    ],
+    "key_people": [
+      "Michael R. Gordon",
+      "General Bernard E. Trainor",
+      "Saddam Hussein",
+      "Donald H. Rumsfeld",
+      "General Tommy Franks",
+      "President George W. Bush",
+      "Vice President Dick Cheney",
+      "General Colin L. Powell",
+      "Paul Wolfowitz",
+      "Condoleezza Rice",
+      "Lieutenant General David McKiernan",
+      "General Richard B. Myers",
+      "Lieutenant General Bernard E. Trainor",
+      "General Hugh Shelton",
+      "Lieutenant General David McKiernan",
+      "Major General Dell Dailey",
+      "Ahmed Chalabi",
+      "Lieutenant General William Scott Wallace",
+      "Lieutenant General James Conway",
+      "Major General Buford 'Buff' Blount III",
+      "Major General James Mattis",
+      "Brigadier General John Kelly"
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "title": "1948: A History of the First Arab-Israeli War",
+  "author": "Benny Morris",
+  "publication_year": 2008,
+  "source / publisher": "Yale University Press, New Haven and London",
+  "time_span_start": 1881,
+  "time_span_end": 1949,
+  "main_entities": {
+    "countries": [
+      "Palestine",
+      "Israel",
+      "Egypt",
+      "Transjordan",
+      "Jordan",
+      "Iraq",
+      "Syria",
+      "Lebanon",
+      "Great Britain",
+      "United States",
+      "Soviet Union",
+      "France",
+      "Germany",
+      "Saudi Arabia",
+      "Yemen",
+      "Czechoslovakia"
+    ],
+    "orgs": [
+      "Arab Higher Committee (AHC)",
+      "Arab League",
+      "Arab Liberation Army (ALA)",
+      "Haganah",
+      "Israel Defense Forces (IDF)",
+      "Irgun Zvai Leumi (IZL)",
+      "Lohamei Herut Yisrael (LHI)",
+      "Jewish Agency for Palestine (JA)",
+      "United Nations (UN)",
+      "United Nations Special Committee on Palestine (UNSCOP)",
+      "Palestine Conciliation Commission (PCC)",
+      "Arab Legion"
+    ],
+    "key_people": [
+      "Benny Morris",
+      "David Ben-Gurion",
+      "Chaim Weizmann",
+      "Haj Amin al-Husseini",
+      "Abdullah ibn Hussein, King of Transjordan",
+      "Ernest Bevin",
+      "Harry S. Truman",
+      "George C. Marshall",
+      "Theodor Herzl",
+      "Yigael Yadin",
+      "Yigal Allon",
+      "Count Folke Bernadotte",
+      "Ralph Bunche",
+      "John Bagot Glubb (Glubb Pasha)"
+    ]
+  }
+}
